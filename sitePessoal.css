@@ -1,0 +1,68 @@
+/* sitePessoal.css */
+
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Container Styles */
+div {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading Styles */
+h1, h2 {
+  color: #2c3e50;
+  margin-top: 0;
+}
+
+/* Specific Heading Styles */
+h1 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 0.75em;
+  margin-top: 0.75em;
+}
+
+/* Paragraph Styles */
+p {
+  font-size: 1em;
+  margin-bottom: 1em;
+  color: #555;
+}
+
+/* Link Styles */
+a {
+  color: #3498db;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #2980b9;
+}
+
+/* List Styles (if needed in the future) */
+ul, ol {
+  margin: 1em 0;
+  padding: 0 0 0 20px;
+  color: #555;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
